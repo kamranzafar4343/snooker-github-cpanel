@@ -4,7 +4,7 @@ date_default_timezone_set("Asia/Karachi");
 $servername = "localhost";
 $username = "admin_2alitownsnooker";
 $password = "*SdC.m*vW%Uj";
-$dbname = "admin_2alitownsnooker";
+$dbname = "admin_snooker-github-cpanel";
 // $servername = "localhost";
 // $username = "root";
 // $password = "logics@199";
