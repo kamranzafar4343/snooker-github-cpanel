@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+
+
+<?php
+error_reporting(0);
+include "includes/session.php";
+include "includes/config.php";
+include "includes/head.php";
+include "user_permission.php";
+
+session_start();
+
+if(isset($_SESSION['adminid'])){
+
+
+}
+else{
+   header('Location: login.php'); 
+}
+?>
+
+<body class="theme-orange">
+
+<!-- Page Loader -->
+<div class="page-loader-wrapper">
+    <div class="loader">
+        <div class="m-t-30"><img src="https://wrraptheme.com/templates/lucid/hr/html/assets/images/logo-icon.svg" width="48" height="48" alt="Lucid"></div>
+        <p>Please wait...</p>        
+    </div>
+</div>
+<!-- Overlay For Sidebars -->
+   <?php
+include "includes/navbar.php";
+
+include "includes/sidebar.php";
+?>
+    <div id="main-content">
+        <div class="container-fluid">
+            <div class="block-header">
+                <div class="row">
+                    <div class="col-lg-6 col-md-8 col-sm-12">                        
+                        <h2><a href="javascript:void(0);" class="btn btn-xs btn-link btn-toggle-fullwidth"><i class="fa fa-arrow-left"></i></a> Salary  Report</h2>
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>                            
+                            <li class="breadcrumb-item"> Salary Report</li>
+                            <li class="breadcrumb-item active"></li>
+                        </ul>
+                    </div>            
+                    <?php include "includes/graph.php";?>
+                </div>
+            </div>
+            
+            <div class="row clearfix">
+                <div class="col-12">
+                    <div class="card">
+                                             <?php
+              
+              if(isset($_GET['insert']) && $_GET['insert']=='successful'){
+                  ?>
+                  <div class="alert alert-success" id="success-alert">
+  
+  <strong>Great!</strong> Item Added Succesfully.
+</div>
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+  $("#success-alert").hide();
+
+    $("#success-alert").fadeTo(4000, 500).slideUp(500, function() {
+      $("#success-alert").slideUp(500);
+    });
+  });
+    </script>
+                                       <?php
+                                   }
+              
+              if(isset($_GET['update']) && $_GET['update']=='successful'){
+                  ?>
+                  <div class="alert alert-success" id="success-alert">
+  
+  <strong>Great!</strong> Item Updated Succesfully.
+</div>
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+  $("#success-alert").hide();
+
+    $("#success-alert").fadeTo(4000, 500).slideUp(500, function() {
+      $("#success-alert").slideUp(500);
+    });
+  });
+    </script>
+
+            
+              <?php
+              }
+
+              if(isset($_GET['insert']) && $_GET['insert']=='unsuccessful' || isset($_GET['update']) && $_GET['update']=='unsuccessful'){
+                  ?>
+                  <div class="alert alert-danger" id="danger-alert">
+  
+  <strong>Opps!</strong>Failed to Add Item.
+</div>
+                            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+  $("#danger-alert").hide();
+
+    $("#danger-alert").fadeTo(4000, 500).slideUp(500, function() {
+      $("#danger-alert").slideUp(500);
+    });
+  });
+    </script>
+                             <?php
+              }
+
+              if(isset($_GET['data']) && $_GET['data']=='notfound'){
+                  ?>
+                  <div class="alert alert-danger" id="danger-alert">
+  
+  <strong>Sorry ! </strong>No Record Found !.
+</div>
+                            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+  $("#danger-alert").hide();
+
+    $("#danger-alert").fadeTo(4000, 500).slideUp(500, function() {
+      $("#danger-alert").slideUp(500);
+    });
+  });
+    </script>
+            
+              <?php
+              } ?>
+
+                         <form  action="single_salary.php" method="post" enctype="multipart/form-data">
+                        <div class="body">
+
+                            
+                                 <div class="row clearfix">
+                                    <div class="col-md-2 text-right">
+                                         <label for="description">Month </label>
+                                  </div>
+                                <div class="col-md-5 col-sm-12">
+                                    <div class="form-group">
+                                    <select class="form-control select_group" name="month" >
+                                        <option value="All">All Year</option>
+                                        <option value="1">January</option>
+                                        <option value="2">Feburary</option>
+                                        <option value="3">March</option>
+                                        <option value="4">April</option>
+                                        <option value="5">May</option>
+                                        <option value="6">June</option>
+                                        <option value="7">July</option>
+                                        <option value="8">August</option>
+                                        <option value="9">September</option>
+                                        <option value="10">October</option>
+                                        <option value="11">November</option>
+                                        <option value="12">December</option>
+                                          
+                                    </select>
+    </div>
+      </div>
+ </div>
+                          <div style="margin-right: 25%;" class="text-center">
+                            <button style="width:25%; " type="submit" class="btn btn-primary" name="purchase_rep" target='_blank'>Search</button>
+                        </div>
+                    </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+<!-- Javascript -->
+<script src="assets_light/bundles/libscripts.bundle.js"></script>    
+<script src="assets_light/bundles/vendorscripts.bundle.js"></script>
+
+<script src="assets_light/bundles/easypiechart.bundle.js"></script> <!-- easypiechart Plugin Js -->
+
+<script src="assets_light/bundles/mainscripts.bundle.js"></script>
+<link href="assets/select2/dist/css/select2.min.css" rel="stylesheet" />
+<script src="assets/select2/dist/js/select2.min.js"></script>
+
+<script src="assets/fileinput/fileinput.min.js"></script>
+<link href="assets/fileinput/fileinput.min.css" rel="stylesheet" />
+
+
+
+</body>
+
+<!-- Mirrored from wrraptheme.com/templates/lucid/hr/html/light/client-add.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Jun 2021 09:01:13 GMT -->
+</html>

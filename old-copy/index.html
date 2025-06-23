@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+ 
+    <title>RB-JAMPUR</title>
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/Logo.jpeg">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/Logo.jpeg">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/Logo.jpeg">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/Logo.jpeg">
+    <link rel="manifest" href="assets/img/Logo.jpeg">
+    <meta name="msapplication-TileImage" content="assets/img/favicons/mstile-150x150.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- ===============================================-->
+    <!--    Stylesheets-->
+    <!-- ===============================================-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700&amp;display=swap" rel="stylesheet">
+    <link href="vendors/prism/prism.css" rel="stylesheet">
+    <link href="vendors/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="assets/css/theme.min.css" rel="stylesheet" />
+    <style>
+        
+    .custom-btn-3d-running {
+  position: relative;
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  overflow: hidden;
+  background: linear-gradient(90deg, #2e2e2e, #1a1a1a);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2), 0 4px 6px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  transform-origin: center;
+  animation: rotate3d 3s infinite linear;
+}
+
+.custom-btn-3d-running::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(white 3px, transparent 3px) 0 0 / 50px 50px;  
+  animation: moveStarsInside 5s linear infinite;
+  z-index: 0;
+}
+
+@keyframes moveStarsInside {
+  from {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+.custom-btn-3d-running:hover {
+  background: linear-gradient(90deg, #2e2e2e, #1a1a1a);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3), 0 8px 12px rgba(0, 0, 0, 0.2);
+  transform: perspective(800px) rotateX(0deg) rotateY(0deg) scale(1.1);
+}
+
+.custom-btn-3d-running:active {
+  transform: perspective(800px) rotateX(10deg) rotateY(10deg) scale(0.95);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.custom-btn-3d-running span {
+  position: relative;
+  z-index: 1;
+}
+img.responsive-img {
+  height: 140px;  
+  width: 100px;  
+  border-radius: 50%;  
+}
+
+@media (min-width: 576px) {
+  img.responsive-img {
+    height: 140px;
+    width: 100px;  
+    border-radius: 50%;  
+  }
+}
+
+@media (min-width: 768px) {
+  img.responsive-img {
+    height: 140px;
+    width: 100px;   
+    border-radius: 50%;  
+  }
+}
+
+@media (min-width: 992px) {
+  img.responsive-img {
+    height: 140px;   
+    width: 100px;   
+    border-radius: 50%;   
+  }
+}
+
+@media (min-width: 1200px) {
+  img.responsive-img {
+    height: 140px;
+    width: 100px;   
+    border-radius: 50%;   
+  }
+}
+ 
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    margin-top: 37px !important;
+}
+ 
+.navbar-brand img {
+    height: 175px;
+    width: 166px;
+    border-radius: 30%;
+    margin-bottom: 0;
+    margin-top: 36px;
+}
+
+.navbar {
+  padding-bottom: 0;  
+  max-height: 108px;
+}
+
+.nav-item .custom-btn-3d-running {
+  margin-left: auto;  
+  padding: 10px 20px; 
+ }
+
+ 
+@media (max-width: 768px) {
+  .navbar-brand img {
+    height: 120px;
+    width: 80px;
+  }
+}
+
+@media (max-width: 576px) {
+    .navbar-brand img {
+        height: 124px;
+        margin-top: 5px;
+        width: 109px;
+    }
+}
+
+.custom-section {
+    padding: 20px 0;
+  }
+
+  .custom-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+
+  .custom-heading {
+    font-size: 1.75rem;
+    line-height: 1.4;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+   .custom-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+   .custom-column {
+    flex: 0 0 calc(33.33% - 20px);  
+    max-width: calc(33.33% - 20px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .custom-column img {
+    width: 100%;
+    max-width: 350px;
+    height: 400px;  
+    border-radius: 10px;
+    object-fit: cover;
+  }
+
+  .custom-column h4 {
+    font-size: 1.5rem;
+    margin-top: 15px;
+  }
+
+  .custom-column p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+   @media (max-width: 1140px) {
+    .custom-column {
+      flex: 0 0 calc(50% - 20px);  
+      max-width: calc(50% - 20px);
+    }
+  }
+
+  @media (max-width: 719px) {
+    .custom-column {
+      flex: 0 0 100%;  
+      max-width: 100%;
+    }
+
+    .custom-column img {
+      max-width: 300px;  
+      height: 300px;  
+    }
+  }
+ .brandimg {
+  height: 150px;
+  width: 100px;
+ }
+
+ @media (max-width: 1200px) {
+  .brandimg {
+    height: 170px;
+    width: 100px;
+  }
+}
+
+@media (max-width: 992px) {
+  .brandimg {
+    height: 180px;
+    width: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .brandimg {
+    height: 170px;
+    width: 100px;
+  }
+}
+
+@media (max-width: 576px) {
+  .brandimg {
+    height: 170px;
+    width: 100px;
+  }
+
+}
+
+@media (max-width: 400px) {
+  .brandimg {
+    height: 170px;
+    width: 100px;
+  }
+}
+
+/* main picture css */
+.main-pic {
+		    position: relative;
+    left: -70px;
+		}
+		
+		
+		.custom-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .custom-heading {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .custom-paragraph {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+
+        .custom-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .custom-col-4 {
+            flex: 1 1 calc(33.33% - 20px);  
+            max-width: calc(33.33% - 20px);
+            padding: 20px;
+            background-color: #f0f0f0;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .custom-icon {
+            font-size: 2rem;
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        .custom-col-heading {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+        }
+
+         @media (max-width: 768px) {
+            .custom-col-4 {
+                flex: 1 1 calc(50% - 20px);
+                max-width: calc(50% - 20px);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .custom-col-4 {
+                flex: 1 1 100%;
+                max-width: 100%;
+                
+            }
+            .navbar-brand img{
+              margin-top: 20px;
+              height: 138px;
+              width: 130px;
+            }
+        }
+
+    </style>
+  </head>
+
+  <body>
+    <!-- ===============================================-->
+    <!--    Main Content-->
+    <!-- ===============================================-->
+    <main class="main" id="top">
+      <nav class="navbar navbar-expand-lg fixed-top navbar-dark" data-navbar-on-scroll="data-navbar-on-scroll">
+        <div class="container" style="margin-top: -70px">
+          <!-- Brand Logo -->
+          <a class="navbar-brand" href="index.html">
+            <img src="assets/img/logix-logo.png" alt="Logo" class="responsive-img" />
+          </a>
+          
+          <!-- No toggler or collapsible behavior for the Log In button -->
+          <ul class="navbar-nav ms-auto d-flex align-items-center">
+            <li class="nav-item">
+              <a class="nav-link btn custom-btn-3d-running" aria-current="page" href="index.php">
+                <span>Log In</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      
+      <div class="bg-dark"><img class="img-fluid position-absolute end-0" src="assets/img/hero/hero-bg.png" alt="" />
+
+        <section>
+          <div class="container">
+            <div class="row align-items-center py-lg-8 py-6">
+              <div class="col-lg-6 text-center text-lg-start">
+                <h1 class="text-white fs-5 fs-xl-6">Your Partner in Custom Software Development</h1>
+                <i class="text-white py-lg-3 py-2">From concept to deployment, we build powerful software that drives business success. Our team delivers high-quality, custom solutions designed to meet your unique goals and optimize your operations.</i>
+               </div>
+              <div class="col-lg-6 text-center text-lg-end mt-3 mt-lg-0"><img class="img-fluid main-pic" src="assets/img/logic-main-pic.png" alt="" /></div>
+            </div>
+             
+          </div>
+        </section>
+    
+
+      </div>
+
+      <section class="custom-section">
+        <div class="custom-container">
+          <h2 class="custom-heading">
+            At Logix, we strive to innovate and build solutions that shape the future of business and technology.
+          </h2>
+          <div class="custom-row">
+            <div class="custom-column">
+              <img class="custom-image" src="assets/img/maxresdefault.jpg" alt="Driven by Excellence" />
+              <h4>Driven by Excellence</h4>
+              <p>Logix embodies the spirit of innovation, combining creativity and technology to shape the future of industries.</p>
+            </div>
+            <div class="custom-column">
+              <img class="custom-image" src="assets/img/vision.jpg" alt="Leading with Vision" />
+              <h4>Leading with Vision</h4>
+              <p>Logix thrives on forward-thinking strategies, creating solutions that define the future of business and technology.</p>
+            </div>
+            <div class="custom-column">
+              <img class="custom-image" src="assets/img/th.jpg" alt="Innovating the Future" />
+              <h4>Innovating the Future</h4>
+              <p>Logix is a forward-thinking company, revolutionizing industries through continuous innovation and impactful solutions.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+<div class="custom-container my-4">
+      <div style="color:black;font-weight: bolder" class="custom-heading">Our POS</div>
+      <div class="custom-paragraph">Our POS software is perfect for businesses of all sizes, from small retail shops to large department stores. It’s designed to be user-friendly and intuitive, so you can start using it right away. Plus, it’s cloud-based, so you can access your data from anywhere and on any device.</div>
+      <div class="custom-row">
+          <div class="custom-col-4">
+             <div class="custom-icon"><svg style="color:#0a2640" xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-currency-dollar" viewBox="0 0 16 16">
+              <path d="M4 10.781c.148 1.667 1.513 2.85 3.591 3.003V15h1.043v-1.216c2.27-.179 3.678-1.438 3.678-3.3 0-1.59-.947-2.51-2.956-3.028l-.722-.187V3.467c1.122.11 1.879.714 2.07 1.616h1.47c-.166-1.6-1.54-2.748-3.54-2.875V1H7.591v1.233c-1.939.23-3.27 1.472-3.27 3.156 0 1.454.966 2.483 2.661 2.917l.61.162v4.031c-1.149-.17-1.94-.8-2.131-1.718zm3.391-3.836c-1.043-.263-1.6-.825-1.6-1.616 0-.944.704-1.641 1.8-1.828v3.495l-.2-.05zm1.591 1.872c1.287.323 1.852.859 1.852 1.769 0 1.097-.826 1.828-2.2 1.939V8.73z"/>
+            </svg></div>
+              <div style="color:black;font-weight: bolder" class="custom-col-heading">Sales</div>
+              <p>Quickly and easily process sales, including credit card and mobile payments.</p>
+          </div>
+          <div class="custom-col-4">
+              <div class="custom-icon"><svg style="color:#0a2640" xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-incognito" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="m4.736 1.968-.892 3.269-.014.058C2.113 5.568 1 6.006 1 6.5 1 7.328 4.134 8 8 8s7-.672 7-1.5c0-.494-1.113-.932-2.83-1.205l-.014-.058-.892-3.27c-.146-.533-.698-.849-1.239-.734C9.411 1.363 8.62 1.5 8 1.5s-1.411-.136-2.025-.267c-.541-.115-1.093.2-1.239.735m.015 3.867a.25.25 0 0 1 .274-.224c.9.092 1.91.143 2.975.143a30 30 0 0 0 2.975-.143.25.25 0 0 1 .05.498c-.918.093-1.944.145-3.025.145s-2.107-.052-3.025-.145a.25.25 0 0 1-.224-.274M3.5 10h2a.5.5 0 0 1 .5.5v1a1.5 1.5 0 0 1-3 0v-1a.5.5 0 0 1 .5-.5m-1.5.5q.001-.264.085-.5H2a.5.5 0 0 1 0-1h3.5a1.5 1.5 0 0 1 1.488 1.312 3.5 3.5 0 0 1 2.024 0A1.5 1.5 0 0 1 10.5 9H14a.5.5 0 0 1 0 1h-.085q.084.236.085.5v1a2.5 2.5 0 0 1-5 0v-.14l-.21-.07a2.5 2.5 0 0 0-1.58 0l-.21.07v.14a2.5 2.5 0 0 1-5 0zm8.5-.5h2a.5.5 0 0 1 .5.5v1a1.5 1.5 0 0 1-3 0v-1a.5.5 0 0 1 .5-.5"/>
+              </svg></div>
+              <div style="color:black;font-weight: bolder" class="custom-col-heading">Inventory</div>
+              <p>Manage customer information, including contact details and purchase history.</p>
+          </div>
+          <div class="custom-col-4">
+              <div class="custom-icon"><svg style="color:#0a2640" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 4h11l5 5v11a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"></path>
+                <polyline points="14 2 14 8 20 8"></polyline>
+                <line x1="9" y1="12" x2="15" y2="12"></line>
+                <line x1="9" y1="16" x2="15" y2="16"></line>
+              </svg>
+              </div>
+              <div style="color:black;font-weight: bolder" class="custom-col-heading">Reports</div>
+              <p>Create detailed reports on sales, inventory, and customer data.</p>
+          </div>
+
+          <div class="custom-col-4">
+            <div class="custom-icon"><svg style="color:#0a2640" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="9" cy="7" r="4"></circle>
+              <circle cx="17" cy="7" r="4"></circle>
+              <path d="M2 20a6 6 0 0 1 12 0"></path>
+              <path d="M14 20a6 6 0 0 1 8 0"></path>
+            </svg>
+            </div>
+            <div style="color:black;font-weight: bolder" class="custom-col-heading">Customers</div>
+            <p>The customer is very important, the customer will be followed by the customer. As the land grows, neither mourns nor dies.</p>
+        </div>
+
+        <div class="custom-col-4">
+          <div class="custom-icon"><svg style="color:#0a2640" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20.59 13.41a2 2 0 0 1 0 2.83l-4.24 4.24a2 2 0 0 1-2.83 0L4 10V4h6l10.59 9.41z"></path>
+            <line x1="7" y1="7" x2="7" y2="7"></line>
+          </svg>
+          
+          </div>
+          <div style="color:black;font-weight: bolder" class="custom-col-heading">Features</div>
+          <p>Set up and manage discounts, promotions, Staff, Vendors and loyalty programs.</p>
+      </div>
+
+
+      <div class="custom-col-4">
+        <div class="custom-icon"><svg style="color:#0a2640" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 16V8a2 2 0 0 0-1-1.73L12 2 4 6.27A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73L12 22l8-4.27A2 2 0 0 0 21 16z"></path>
+          <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+          <line x1="12" y1="22.08" x2="12" y2="12"></line>
+        </svg>
+        
+        </div>
+        <div  style="color:black;font-weight: bolder" class="custom-col-heading">E-Commerce</div>
+        <p>Integrate with other business systems, such as accounting software and e-commerce platforms.</p>
+    </div>
+      </div>
+  </div>
+   
+    <section class="pt-0">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-lg-6 col-sm-12">
+            <a   href="index.html">
+              <img class="brandimg" src="assets/img/Logo.png" alt="Logo" />
+            </a>
+            <p class="w-lg-75 text-gray">Logix works with businesses to unlock their full potential through technology, providing them with the tools and strategies necessary to drive long-term success.</p>
+          </div>
+          <div class="col-lg-2 col-sm-4">
+            <h3 class="fw-bold fs-1 mt-5 mb-4">Landings</h3>
+            <ul class="list-unstyled">
+              <li class="my-3 col-md-4"><a href="#">Home</a></li>
+              <li class="my-3"><a href="#">Products</a></li>
+              <li class="my-3"><a href="#">Services</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-2 col-sm-4">
+            <h3 class="fw-bold fs-1 mt-5 mb-4">Company</h3>
+            <ul class="list-unstyled">
+              <li class="my-3"><a href="#">Home</a></li>
+              <li class="my-3"><a href="#">Careers</a><span class="py-1 px-2 rounded-2 bg-success fw-bold text-dark ms-2">Hiring!</span></li>
+              <li class="my-3"><a href="#">Services</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-2 col-sm-4">
+            <h3 class="fw-bold fs-1 mt-5 mb-4">Resources</h3>
+            <ul class="list-unstyled">
+              <li class="mb-3"><a href="#">Home</a></li>
+              <li class="mb-3"><a href="#">Products</a></li>
+              <li class="mb-3"><a href="#">Services</a></li>
+            </ul>
+          </div>
+        </div>
+        <p class="text-gray">All rights reserved.</p>
+      </div>
+    </section>
+    
+    <script src="vendors/popper/popper.min.js"></script>
+    <script src="vendors/bootstrap/bootstrap.min.js"></script>
+    <script src="vendors/anchorjs/anchor.min.js"></script>
+    <script src="vendors/is/is.min.js"></script>
+    <script src="vendors/fontawesome/all.min.js"></script>
+    <script src="vendors/lodash/lodash.min.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
+    <script src="vendors/prism/prism.js"></script>
+    <script src="vendors/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/js/theme.js"></script>
+  </body>
+
+</html>

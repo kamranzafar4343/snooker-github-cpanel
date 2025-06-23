@@ -1,0 +1,810 @@
+[02-Dec-2023 23:33:11 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[02-Dec-2023 23:33:16 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[02-Dec-2023 23:33:17 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[02-Dec-2023 23:35:05 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[02-Dec-2023 23:38:56 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[02-Dec-2023 23:39:02 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[02-Dec-2023 23:39:03 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[02-Dec-2023 23:43:39 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[02-Dec-2023 23:50:31 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[02-Dec-2023 23:52:24 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[03-Dec-2023 00:29:49 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[03-Dec-2023 00:29:53 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[03-Dec-2023 00:43:36 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[03-Dec-2023 01:42:42 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[03-Dec-2023 12:24:26 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[03-Dec-2023 12:37:19 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[03-Dec-2023 12:37:19 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[03-Dec-2023 12:46:05 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[03-Dec-2023 13:04:24 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/legends199.logix199.com/includes/session.php:5) in /home/admin/legends199.logix199.com/complete.php on line 57
+[12-Feb-2025 06:22:44 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/admin/legends.logix199.com/pos_sale_list.php on line 17
+[12-Feb-2025 06:22:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/admin/legends.logix199.com/pos_sale_list.php on line 17
+[12-Feb-2025 06:23:09 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/admin/legends.logix199.com/pos_sale_list.php on line 17
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 32
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 34
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 37
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 38
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 42
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 43
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 47
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 48
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 50
+[05-Mar-2025 06:47:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 51
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 32
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 34
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 37
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 38
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 42
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 43
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 47
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 48
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/day_close.php on line 50
+[05-Mar-2025 06:47:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/day_close.php on line 51
+[06-Mar-2025 21:36:28 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/legends.logix199.com/complete.php on line 27
+[06-Mar-2025 21:36:38 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/legends.logix199.com/complete.php on line 27
+[06-Mar-2025 21:38:04 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/legends.logix199.com/complete.php on line 27
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 6
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 7
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 10
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 11
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 15
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 16
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 20
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 21
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 22
+[07-Apr-2025 13:27:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 23
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 6
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 7
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 10
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 11
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 15
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 16
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 20
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 21
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 22
+[07-Apr-2025 13:27:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 23
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 6
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 7
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 10
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 11
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 15
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 16
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 20
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 21
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 22
+[07-Apr-2025 13:27:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 23
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 6
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 7
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 10
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 11
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 15
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 16
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 20
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 21
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 22
+[07-Apr-2025 13:28:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 23
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 2
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/update_customer.php on line 3
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 6
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 7
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 10
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 11
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 15
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/update_customer.php on line 16
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 20
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 21
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 22
+[07-Apr-2025 13:28:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/update_customer.php on line 23
+[09-Apr-2025 17:59:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/legends.logix199.com/pos.php on line 2318
+[09-Apr-2025 17:59:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/legends.logix199.com/pos.php on line 2318
+[09-Apr-2025 17:59:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/legends.logix199.com/pos.php on line 2318
+[09-Apr-2025 17:59:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/legends.logix199.com/pos.php on line 2318
+[09-Apr-2025 17:59:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/legends.logix199.com/pos.php on line 2318
+[09-Apr-2025 18:01:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/legends.logix199.com/pos.php on line 2318
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 6
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 9
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 11
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 12
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 13
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 14
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 17
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 18
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 19
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 20
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 21
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 23
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 24
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 25
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 26
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 27
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 29
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 30
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 41
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 42
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 45
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 46
+[22-Apr-2025 13:58:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 47
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 50
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 52
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 54
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 56
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 82
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 83
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 93
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 94
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 107
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 113
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 121
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 137
+[22-Apr-2025 18:58:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 143
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 6
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 9
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 11
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 12
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 13
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 14
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 17
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 18
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 19
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 20
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 21
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 23
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 24
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 25
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 26
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 27
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 29
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 30
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 41
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 42
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 45
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 46
+[22-Apr-2025 13:58:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 47
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 50
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 52
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 54
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 56
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 82
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 83
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 93
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 94
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 107
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 113
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 121
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 137
+[22-Apr-2025 18:58:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 143
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 6
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 9
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 11
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 12
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 13
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 14
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 17
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 18
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 19
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 20
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 21
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 23
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 24
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 25
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 26
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 27
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 29
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 30
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 41
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 42
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 45
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 46
+[22-Apr-2025 13:58:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 47
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 50
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 52
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 54
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 56
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 82
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 83
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 93
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 94
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 107
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 113
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 121
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 137
+[22-Apr-2025 18:58:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 143
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 6
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 9
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 11
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 12
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 13
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 14
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 17
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 18
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 19
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 20
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 21
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 23
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 24
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 25
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 26
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 27
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 29
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 30
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 41
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 42
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 45
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 46
+[22-Apr-2025 13:59:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 47
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 50
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 52
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 54
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 56
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 82
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 83
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 93
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 94
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 107
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 113
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 121
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 137
+[22-Apr-2025 18:59:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 143
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 2
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/sale_return.php on line 3
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 6
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 9
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 11
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 12
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 13
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 14
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 17
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 18
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 19
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 20
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 21
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 23
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 24
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 25
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 26
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 27
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 29
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 30
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 38
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 39
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 42
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 43
+[22-Apr-2025 14:04:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 44
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 47
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 49
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 51
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 54
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 77
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 78
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 88
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/sale_return.php on line 89
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 99
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 105
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 113
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 126
+[22-Apr-2025 19:04:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/sale_return.php on line 132
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 2
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 2
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/complete.php on line 2
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 3
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 3
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/complete.php on line 3
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 5
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 8
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 12
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 14
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/complete.php on line 15
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 25
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 26
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 27
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 28
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 29
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 35
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 36
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 37
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 38
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 40
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 46
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 54
+[27-Apr-2025 10:08:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/complete.php on line 55
+[27-Apr-2025 15:08:38 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 64
+[27-Apr-2025 15:08:38 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 203
+[27-Apr-2025 15:08:38 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 204
+[27-Apr-2025 15:08:38 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 208
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 2
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 2
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/complete.php on line 2
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 3
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 3
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/complete.php on line 3
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 5
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 8
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 12
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 14
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/complete.php on line 15
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 25
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 26
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 27
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 28
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 29
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 35
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 36
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 37
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 38
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 40
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 46
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 54
+[27-Apr-2025 10:12:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/complete.php on line 55
+[27-Apr-2025 15:12:20 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 64
+[27-Apr-2025 15:12:20 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 203
+[27-Apr-2025 15:12:20 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 204
+[27-Apr-2025 15:12:20 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 208
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 2
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  include(../includes/config.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 2
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  include(): Failed opening '../includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/complete.php on line 2
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 3
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  include(../includes/session.php): failed to open stream: No such file or directory in /home/admin/legends.logix199.com/complete.php on line 3
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  include(): Failed opening '../includes/session.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/legends.logix199.com/complete.php on line 3
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 5
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 8
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 12
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 14
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/complete.php on line 15
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 25
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 26
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 27
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 28
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 29
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 35
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 36
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 37
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 38
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 40
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 46
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 54
+[27-Apr-2025 10:12:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/admin/legends.logix199.com/complete.php on line 55
+[27-Apr-2025 15:12:46 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 64
+[27-Apr-2025 15:12:46 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 203
+[27-Apr-2025 15:12:46 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 204
+[27-Apr-2025 15:12:46 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/admin/legends.logix199.com/complete.php on line 208
+[30-Apr-2025 13:06:01 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:01 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:01 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:01 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:01 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:01 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:36 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:36 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:36 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:36 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:36 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 13:06:36 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:32 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:32 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:32 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:32 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:32 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:32 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:49 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:49 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:49 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:08:49 Asia/Karachi] PHP Fatal error:  Uncaught Error: Class 'Shuchkin\SimpleXLSX' not found in /home/admin/admin.logix199.com/item_import.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/admin/admin.logix199.com/item_import.php on line 21
+[30-Apr-2025 14:15:14 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:14 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:14 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:17 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:17 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:17 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:26 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:26 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:26 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:26 Asia/Karachi] PHP Fatal error:  Uncaught Error: Class 'Shuchkin\SimpleXLSX' not found in /home/admin/admin.logix199.com/item_import.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/admin/admin.logix199.com/item_import.php on line 21
+[30-Apr-2025 14:15:37 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:37 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:37 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:39 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:39 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:15:39 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:17:04 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:17:04 Asia/Karachi] PHP Warning:  include(includes/SimpleXLSX.php): failed to open stream: No such file or directory in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:17:04 Asia/Karachi] PHP Warning:  include(): Failed opening 'includes/SimpleXLSX.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/admin/admin.logix199.com/item_import.php on line 3
+[30-Apr-2025 14:17:04 Asia/Karachi] PHP Fatal error:  Uncaught Error: Class 'Shuchkin\SimpleXLSX' not found in /home/admin/admin.logix199.com/item_import.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/admin/admin.logix199.com/item_import.php on line 21
+[02-May-2025 19:19:50 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 19:55:08 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 21:34:22 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 22:32:04 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 22:41:49 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 22:47:46 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 23:26:38 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 23:27:38 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 23:38:59 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 23:42:52 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 23:43:02 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 23:57:04 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[02-May-2025 23:59:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 00:25:24 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 00:45:45 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 05:36:07 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 08:13:40 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 14:32:25 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 14:33:59 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 14:36:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 15:51:26 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 16:53:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 16:53:49 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 17:13:52 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 17:14:52 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 17:38:53 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 18:30:13 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 20:38:55 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 22:06:14 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 22:09:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 23:05:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 23:20:50 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 23:39:01 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[03-May-2025 23:56:11 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 01:44:24 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 02:05:06 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 02:19:06 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 02:27:42 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 04:09:04 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 05:19:49 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 05:35:06 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 05:38:07 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 07:12:13 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 08:05:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 10:12:54 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 20:40:46 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[04-May-2025 22:10:57 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[05-May-2025 13:00:50 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[05-May-2025 13:04:10 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[05-May-2025 14:06:17 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[05-May-2025 15:58:11 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[05-May-2025 18:02:57 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[05-May-2025 22:07:47 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[05-May-2025 23:59:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 02:44:38 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 03:00:25 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 03:13:25 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 04:11:56 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 04:17:42 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 04:27:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 04:29:13 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 04:34:09 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 07:23:48 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 08:25:16 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 08:25:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 13:28:05 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 14:24:21 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[06-May-2025 14:38:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[07-May-2025 03:05:08 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[07-May-2025 04:28:40 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[07-May-2025 17:09:38 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[07-May-2025 17:48:07 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[08-May-2025 01:20:38 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[08-May-2025 01:51:22 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[08-May-2025 06:49:04 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[08-May-2025 08:44:53 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[08-May-2025 18:40:26 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[08-May-2025 22:34:27 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[09-May-2025 02:36:28 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[09-May-2025 16:43:38 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[09-May-2025 17:01:25 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[09-May-2025 19:01:22 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[09-May-2025 19:59:19 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[09-May-2025 21:32:44 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[09-May-2025 21:44:38 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[09-May-2025 22:35:06 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 00:09:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 01:41:05 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 01:49:08 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 02:51:56 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 03:09:03 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 03:13:56 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 03:46:16 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 04:02:15 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 04:02:40 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 04:15:18 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 05:01:23 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 05:25:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 05:39:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 05:56:19 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 06:11:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 07:27:47 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 12:25:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 13:34:43 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 14:06:46 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 14:28:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 14:32:57 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 14:33:23 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 14:34:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 14:47:02 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 16:57:11 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 19:29:18 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 22:05:02 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[10-May-2025 22:54:24 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/complete.php on line 158
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:29 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:30 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:31 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:32 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:33 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:34 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:35 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:36 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[13-May-2025 18:23:37 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/admin/alitownsnooker2.logix199.com/manual_script1.php on line 112
+[23-May-2025 15:03:53 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/admin/alitownsnooker2.logix199.com/check_no_of_entries.php:1) in /home/admin/alitownsnooker2.logix199.com/includes/session.php on line 2
+[23-May-2025 15:03:58 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/admin/alitownsnooker2.logix199.com/check_no_of_entries.php:1) in /home/admin/alitownsnooker2.logix199.com/includes/session.php on line 2
+[04-Jun-2025 00:29:57 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[04-Jun-2025 00:54:03 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[04-Jun-2025 01:15:51 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[04-Jun-2025 03:32:10 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[04-Jun-2025 03:51:29 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[05-Jun-2025 00:10:16 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[05-Jun-2025 00:28:00 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[05-Jun-2025 23:48:51 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[05-Jun-2025 23:49:03 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[06-Jun-2025 05:07:31 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[06-Jun-2025 05:17:10 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[06-Jun-2025 05:36:36 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[06-Jun-2025 05:54:06 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[06-Jun-2025 07:43:32 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[07-Jun-2025 18:34:15 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[07-Jun-2025 19:03:10 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[07-Jun-2025 19:33:38 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[07-Jun-2025 20:13:57 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[08-Jun-2025 22:25:13 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[08-Jun-2025 22:25:13 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[08-Jun-2025 23:03:38 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[10-Jun-2025 02:09:29 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[10-Jun-2025 18:48:46 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[10-Jun-2025 19:38:03 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[11-Jun-2025 03:03:43 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/update_customer.php on line 81
+[11-Jun-2025 08:11:26 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/alitownsnooker2.logix199.com/includes/session.php:5) in /home/admin/alitownsnooker2.logix199.com/complete.php on line 197
+[11-Jun-2025 08:11:26 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admin/alitownsnooker2.logix199.com/includes/session.php:5) in /home/admin/alitownsnooker2.logix199.com/complete.php on line 197
+[11-Jun-2025 18:24:06 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/admin/alitownsnooker2.logix199.com/includes/config.php:19) in /home/admin/alitownsnooker2.logix199.com/includes/session.php on line 2
+[11-Jun-2025 18:29:00 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/admin/alitownsnooker2.logix199.com/includes/config.php:19) in /home/admin/alitownsnooker2.logix199.com/includes/session.php on line 2
+[11-Jun-2025 18:31:02 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/admin/alitownsnooker2.logix199.com/includes/config.php:19) in /home/admin/alitownsnooker2.logix199.com/includes/session.php on line 2
+[11-Jun-2025 18:33:15 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/admin/alitownsnooker2.logix199.com/includes/config.php:19) in /home/admin/alitownsnooker2.logix199.com/includes/session.php on line 2
+[11-Jun-2025 18:34:59 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/admin/alitownsnooker2.logix199.com/includes/config.php:19) in /home/admin/alitownsnooker2.logix199.com/includes/session.php on line 2
+[11-Jun-2025 18:35:37 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/admin/alitownsnooker2.logix199.com/includes/config.php:19) in /home/admin/alitownsnooker2.logix199.com/includes/session.php on line 2
+[11-Jun-2025 18:36:20 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/admin/alitownsnooker2.logix199.com/includes/config.php:19) in /home/admin/alitownsnooker2.logix199.com/includes/session.php on line 2
+[19-Jun-2025 17:48:15 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 21
+[19-Jun-2025 17:48:15 Asia/Karachi] PHP Warning:  Division by zero in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 21
+[19-Jun-2025 17:48:15 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 22
+[19-Jun-2025 17:48:15 Asia/Karachi] PHP Warning:  Division by zero in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 22
+[19-Jun-2025 17:48:40 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 21
+[19-Jun-2025 17:48:40 Asia/Karachi] PHP Warning:  Division by zero in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 21
+[19-Jun-2025 17:48:40 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 22
+[19-Jun-2025 17:48:40 Asia/Karachi] PHP Warning:  Division by zero in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 22
+[20-Jun-2025 00:27:40 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 21
+[20-Jun-2025 00:27:40 Asia/Karachi] PHP Warning:  Division by zero in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 21
+[20-Jun-2025 00:27:40 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 22
+[20-Jun-2025 00:27:40 Asia/Karachi] PHP Warning:  Division by zero in /home/admin/alitownsnooker2.logix199.com/cash_and_bank_complete_multi.php on line 22
