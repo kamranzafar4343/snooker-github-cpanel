@@ -495,8 +495,6 @@ if (isset($_SESSION['adminid'])) {
             $("#sub_zone").append("<option value='" + zone_id + "'>" + zone_name + "</option>");
 
           }
-
-
         });
 
 
