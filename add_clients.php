@@ -145,6 +145,20 @@ if (isset($_SESSION['adminid'])) {
                                     </div>
                                 </div> -->
                     <div class="col-md-4 col-sm-12">
+                      <label>Loyalty Card</label>
+                      <div class="form-group">
+
+                        <input type="text" class="form-control" name="loyalty-card-barcode"  type="number" maxlength="20" value="<?php echo ''; ?>">
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                      <label>Points Per Game</label>
+                      <div class="form-group">
+
+                        <input type="text" class="form-control" name="point-per-game"  type="number" maxlength="4" value="<?php echo ''; ?>">
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
                       <label>Client Phone 1</label>
                       <div class="form-group">
 

@@ -8,6 +8,15 @@ if(isset($_POST['addclients'])){
 	
 	$username=mysqli_real_escape_string($conn,$_POST['username']);
 
+	// Check if the username already exists in the database
+	$checkDuplicate = mysqli_query($conn, "SELECT username FROM tbl_customer WHERE username='$username'");
+
+	if (mysqli_num_rows($checkDuplicate) > 0) {
+		// Show alert and stop further processing
+		echo "<script>alert('The username already exists. Please choose a different one.'); window.history.back();</script>";
+		exit;
+	}
+
 	$mobile_no1=mysqli_real_escape_string($conn,$_POST['mobile_no1']);
 	$mobile_no2=mysqli_real_escape_string($conn,$_POST['mobile_no2']);
 	$address_permanent=mysqli_real_escape_string($conn,$_POST['address_permanent']);
@@ -25,6 +34,12 @@ if(isset($_POST['addclients'])){
 	$sub_zone=mysqli_real_escape_string($conn,$_POST['sub_zone']);
 	$customer_type=mysqli_real_escape_string($conn,$_POST['customer_type']);
 	$fixed_discount=mysqli_real_escape_string($conn,$_POST['fixed_discount']);
+	
+	//lc_barcode -> loyalty card barcode
+	$loyalty_card_barcode = mysqli_real_escape_string($conn,$_POST['loyalty-card-barcode']);
+	//ppg -> points per game
+	$points_per_game = mysqli_real_escape_string($conn,$_POST['point-per-game']);
+	
 	$date=date('Y-m-d');
 	$sql=mysqli_query($conn, "SELECT branch_id, created_by  FROM users where user_id='$userid'");
                                 $data = mysqli_fetch_assoc($sql);
@@ -84,7 +99,7 @@ if ($uploadOk == 0) {
 	if(move_uploaded_file($_FILES["user_profile"]["tmp_name"], $target_file)) {
 
 
-		$sql=mysqli_query($conn, "UPDATE tbl_customer set username='$username',mobile_no1='$mobile_no1',mobile_no2='$mobile_no2',address_permanent='$address_permanent',address_current='$address_current', address_office='$address_office', client_occupation='$client_occupation', client_salary='$client_salary',client_residential='$client_residential',client_fathername='$client_fathername',gender='$gender',client_cnic='$client_cnic',zone='$zone', sub_zone='$sub_zone', customer_type='$customer_type',fixed_discount='$fixed_discount', created_by='$userid',parent_id='$parent_id', created_date='$date',user_profile='$targetimage' where customer_id='$edit_id'");
+		$sql=mysqli_query($conn, "UPDATE tbl_customer set username='$username',mobile_no1='$mobile_no1',mobile_no2='$mobile_no2',address_permanent='$address_permanent',address_current='$address_current', address_office='$address_office', client_occupation='$client_occupation', client_salary='$client_salary',client_residential='$client_residential',client_fathername='$client_fathername',gender='$gender',client_cnic='$client_cnic',zone='$zone', sub_zone='$sub_zone', customer_type='$customer_type',fixed_discount='$fixed_discount',  lc_barcode = '$loyalty_card_barcode', ppg = '$points_per_game',created_by='$userid',parent_id='$parent_id', created_date='$date',user_profile='$targetimage' where customer_id='$edit_id'");
 
 		$sql=mysqli_query($conn, "UPDATE tbl_account_lv2 set aname='$username' where acode='$edit_id'");
 	if($sql){
@@ -103,7 +118,7 @@ if ($uploadOk == 0) {
 }
 else{
 
-	$sql=mysqli_query($conn, "UPDATE tbl_customer set username='$username',mobile_no1='$mobile_no1',mobile_no2='$mobile_no2',address_permanent='$address_permanent',address_current='$address_current', address_office='$address_office', client_occupation='$client_occupation', client_salary='$client_salary', client_residential='$client_residential',client_fathername='$client_fathername',gender='$gender',client_cnic='$client_cnic',created_by='$userid', zone='$zone', sub_zone='$sub_zone', customer_type='$customer_type',fixed_discount='$fixed_discount', parent_id='$parent_id', created_date='$date' where customer_id='$edit_id'");
+	$sql=mysqli_query($conn, "UPDATE tbl_customer set username='$username',mobile_no1='$mobile_no1',mobile_no2='$mobile_no2',address_permanent='$address_permanent',address_current='$address_current', address_office='$address_office', client_occupation='$client_occupation', client_salary='$client_salary', client_residential='$client_residential',client_fathername='$client_fathername',gender='$gender',client_cnic='$client_cnic', lc_barcode = '$loyalty_card_barcode', ppg = '$points_per_game',created_by='$userid', zone='$zone', sub_zone='$sub_zone', customer_type='$customer_type',fixed_discount='$fixed_discount', parent_id='$parent_id', created_date='$date' where customer_id='$edit_id'");
 	$sql=mysqli_query($conn, "UPDATE tbl_account_lv2 set aname='$username' where acode='$edit_id'");
 
 	if($sql){
@@ -189,7 +204,7 @@ if ($uploadOk == 0) {
 } else {
 	if(move_uploaded_file($_FILES["user_profile"]["tmp_name"], $target_file)) {
 	
-		$sql=mysqli_query($conn, "INSERT INTO tbl_customer(customer_id,seprate_customer_id, username,mobile_no1, mobile_no2, address_permanent, address_current, address_office, client_occupation, client_salary, client_residential, client_fathername, gender, client_cnic, zone, sub_zone, customer_type, fixed_discount, created_by, parent_id, created_date,user_profile) VALUES('$customer_id', '$seprate_customer_id', '$username','$mobile_no1','$mobile_no2', '$address_permanent','$address_current', '$address_office','$client_occupation','$client_salary',  '$client_residential', '$client_fathername','$gender','$client_cnic', '$zone', '$sub_zone', '$customer_type','$fixed_discount', '$userid','$parent_id','$date','$targetimage')");
+		$sql=mysqli_query($conn, "INSERT INTO tbl_customer(customer_id,seprate_customer_id, username,mobile_no1, mobile_no2, address_permanent, address_current, address_office, client_occupation, client_salary, client_residential, client_fathername, gender, client_cnic, zone, sub_zone, customer_type, fixed_discount, lc_barcode, ppg, created_by, parent_id, created_date,user_profile) VALUES('$customer_id', '$seprate_customer_id', '$username','$mobile_no1','$mobile_no2', '$address_permanent','$address_current', '$address_office','$client_occupation','$client_salary',  '$client_residential', '$client_fathername','$gender','$client_cnic', '$zone', '$sub_zone', '$customer_type','$fixed_discount', '$userid','$parent_id','$date','$targetimage')");
 
 		$sql=mysqli_query($conn, "INSERT INTO tbl_account_lv2( parent_code,sub_child1,acode,aname,created_date,created_by) VALUES('100000000', '100200000', '$customer_id','$username', '$date', '$parent_id')");
 	if($sql){
@@ -201,7 +216,7 @@ if ($uploadOk == 0) {
 			else if($sale_from=='1')
 			{
 				header('Location: ../installment.php?add=successfull');
-			}
+						}
 			else if($sale_from=='2')
 			{
 				header('Location: ../installment_iemi.php?add=successfull');
@@ -240,7 +255,7 @@ if ($uploadOk == 0) {
 }
 }
 else{
-	$sql=mysqli_query($conn, "INSERT INTO tbl_customer(customer_id, seprate_customer_id,  username,mobile_no1, mobile_no2, address_permanent, address_current, address_office, client_occupation, client_salary, client_residential, client_fathername, gender, client_cnic, zone, sub_zone, customer_type, fixed_discount, created_by, parent_id,  created_date) VALUES('$customer_id', '$seprate_customer_id', '$username','$mobile_no1','$mobile_no2', '$address_permanent','$address_current', '$address_office','$client_occupation','$client_salary', '$client_residential', '$client_fathername','$gender','$client_cnic' ,  '$zone', '$sub_zone', '$customer_type', '$fixed_discount',  '$userid','$parent_id','$date')");
+	$sql=mysqli_query($conn, "INSERT INTO tbl_customer(customer_id, seprate_customer_id,  username,mobile_no1, mobile_no2, address_permanent, address_current, address_office, client_occupation, client_salary, client_residential, client_fathername, gender, client_cnic, zone, sub_zone, customer_type, fixed_discount, lc_barcode, ppg,  created_by, parent_id,  created_date) VALUES('$customer_id', '$seprate_customer_id', '$username','$mobile_no1','$mobile_no2', '$address_permanent','$address_current', '$address_office','$client_occupation','$client_salary', '$client_residential', '$client_fathername','$gender','$client_cnic' ,  '$zone', '$sub_zone', '$customer_type', '$fixed_discount', '$loyalty_card_barcode', '$points_per_game',  '$userid','$parent_id','$date')");
 
 	$sql=mysqli_query($conn, "INSERT INTO tbl_account_lv2( parent_code,sub_child1,acode,aname,created_date,created_by) VALUES('100000000', '100200000', '$customer_id','$username', '$date', '$parent_id')");
 	if($sql){
@@ -344,7 +359,7 @@ if(isset($_POST['addclientspos'])){
 		$customer_id=$acc_rec.'101' ;
 		$seprate_customer_id='6000';
 	}
-	$sql=mysqli_query($conn, "INSERT INTO tbl_customer(customer_id, seprate_customer_id,  username, mobile_no1, address_permanent, address_current, client_fathername, client_cnic, created_by, parent_id,  created_date) VALUES('$customer_id', '$seprate_customer_id', '$username', '$mobile_no1', '$address_permanent', '$address_current', '$client_fathername', '$client_cnic' , '$userid','$parent_id','$date')");
+	$sql=mysqli_query($conn, "INSERT INTO tbl_customer(customer_id, seprate_customer_id,  username, mobile_no1, address_permanent, address_current, client_fathername, client_cnic, lc_barcode, ppg, created_by, parent_id,  created_date) VALUES('$customer_id', '$seprate_customer_id', '$username', '$mobile_no1', '$address_permanent', '$address_current', '$client_fathername', '$client_cnic' , '$loyalty_card_barcode', 'p', '$loyalty_card_barcode','$points_per_game' ,'$userid','$parent_id','$date')");
 
 	$sql=mysqli_query($conn, "INSERT INTO tbl_account_lv2( parent_code,sub_child1,acode,aname,created_date,created_by) VALUES('100000000', '100200000', '$customer_id','$username', '$date', '$parent_id')");
 	if($sql)
